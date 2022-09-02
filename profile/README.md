@@ -8,7 +8,7 @@ Kyaliko creates open-source modern-styled applications because console apps are 
 We want people to expand their programming knowledge and be more confident while coding, which is why
 you can get coding tips and lessons from us anytime you want at <a href="mailto:talk@kyaliko.com">talk@kyaliko.com</a>
 
-`please note that we will only have with C#, JS or PY`
+`please note that we will only help with C#, JS or PY`
 
  <img src="https://avatars.githubusercontent.com/u/101818213?s=200&v=4" width=50 align="center"/> <strong>Kyaliko - By Kyatto</strong>
 
