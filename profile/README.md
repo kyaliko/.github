@@ -11,4 +11,17 @@ you can get coding tips and lessons from us anytime you want at <a href="mailto:
 
 `please note that we will only help with C#, JS or PY`
 
+<h2>Current Projects</h2>
+
+```
+Beta{
+  Kyaliko-Web-V2: https://new.kyaliko.com/
+  Kyaliko-RPC: TBD
+}
+
+Main{
+  Kyaliko-Web: https://kyaliko.com/
+}
+```
+
 bye bye :3
