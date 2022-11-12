@@ -6,10 +6,9 @@ Kyaliko is a small devteam created/owned by <a href="https://github.com/hi-doki"
 
 Kyaliko creates open-source modern applications and some console apps :3
 
-We want people to expand their programming knowledge and be more confident, which is why
-you can get coding tips and lessons from us anytime you want at <a href="mailto:talk@kyaliko.com">`talk@kyaliko.com`</a>
+Basically uhm, the owner of this dev team is very busy and demotivated to make apps and stuffs, so releases for projects are gonna be very random.
 
-`please note that we will only help with C#, JS or PY`
+
 
 <h2>Current Projects</h2>
 
