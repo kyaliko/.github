@@ -14,12 +14,12 @@ Basically uhm, the owner of this dev team is very busy and demotivated to make a
 
 ```
 Beta{
-  Kyaliko-Web-V2: https://new.kyaliko.com/
-  Kyaliko-RPC: TBD
+  Kyaliko-Web-V2: https://kyaliko.com/
+  Kyaliko-RPC: https://kyaliko.com/meow/kyalikorpc/
 }
 
 Main{
-  Kyaliko-Web: https://kyaliko.com/
+  Kyaliko-Web: https://old.kyaliko.com/
 }
 ```
 
