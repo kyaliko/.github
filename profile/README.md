@@ -8,4 +8,4 @@ To contact us, <a href="mailto:kora@kyaliko.com">`email kora@kyaliko.com`</a>
 
 Alternatively, you can contact us at;
 
-<img src="https://raw.githubusercontent.com/Hi-doki/kyaliko-web-v2/cfe7c87436f8ed16277141e93b4295bde22caf7f/public/Logo%20white.svg" width=18px /><a href="https://twitter.com/Kyalikodev" >@kyalikodev</a>
+<img src="https://raw.githubusercontent.com/Hi-doki/kyaliko-web-v2/cfe7c87436f8ed16277141e93b4295bde22caf7f/public/Logo%20white.svg" width=18px /><a href="https://twitter.com/Kyalikodev" >`@kyalikodev`</a>
