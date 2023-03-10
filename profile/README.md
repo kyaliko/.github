@@ -2,7 +2,7 @@
 
 <h2 align>About us</h2>
 
-Kyaliko is a small devteam created/owned by <a href="https://github.com/hi-doki">`Kyatto Kana`</a> and <a href="https://github.com/mallowo">`Astromal`</a> in late 2021. We make c# programs and Next.Js websites that are publicly available on our GitHub for people to use.
+Kyaliko is a small devteam created by <a href="https://github.com/hi-doki">`Kyatto Kana`</a> and <a href="https://github.com/mallowo">`Astromal`</a> in late 2021. We make c# programs and Next.Js websites that are publicly available on our GitHub for people to use.
 
 To contact us, <a href="mailto:kora@kyaliko.com">`email kora@kyaliko.com`</a>
 
