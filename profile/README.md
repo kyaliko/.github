@@ -1,7 +1,7 @@
 ## Hi ppl <img align=right src="https://avatars.githubusercontent.com/u/101818213?s=200&v=4" width=100px />
 
-<h2 align>About us</h2>
+<h2 align>About</h2>
 
-Kyaliko is a small devteam created by <a href="https://github.com/hi-doki">`Kyatto, Kora`</a> and <a href="https://github.com/mallowo">`Astromal`</a> in late 2021. We make c# programs and Next.Js websites that are publicly available on our GitHub for people to use.
+Small devteam created by <a href="https://github.com/hi-doki">`Kora`</a> and <a href="https://github.com/mallowo">`Astromal`</a> in late 2021. We make random programs
 
-To contact us, <a href="mailto:kora@kyaliko.com">`email kora@kyaliko.com`</a>
+contact: <a href="mailto:kora@kyaliko.com">`email kora@kyaliko.com`</a>
